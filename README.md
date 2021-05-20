@@ -11,7 +11,7 @@ Focus sur le nettoyage de données, l'analyse des données et le partage des ré
  
  * [SQL - MySQL for Data Analytics and Business Intelligence](http://ude.my/UC-c2694776-266e-4ae3-ab9b-046d550a518e) : SQL pour Business Analysis, Marketing, et Data Management. 
  
-    Some topics studied in this course are: *SQL theory, Aggregate functions, JOINs, subqueries, SQL Views, Stored routines, MySQL triggers, MySQL indexes, Combining SQL and Tableau*
+    Certains des sujets étudiés dans ce cours sont : *SQL theory, Aggregate functions, JOINs, subqueries, SQL Views, Stored routines, MySQL triggers, MySQL indexes, Combining SQL and Tableau*
    
  * [SQL avancé pour data scientists](https://www.linkedin.com/learning/sql-avance-pour-les-data-scientists?trk=share_certificate) : exploration d'une base des données, réalisation des jointures, sous-requêtes, vues, et autres.
 
