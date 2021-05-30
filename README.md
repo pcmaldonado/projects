@@ -13,7 +13,7 @@ Focus sur le nettoyage de données, l'analyse des données et le partage des ré
  
     Certains des sujets étudiés dans ce cours sont : *SQL theory, Aggregate functions, JOINs, subqueries, SQL Views, Stored routines, MySQL triggers, MySQL indexes, Combining SQL and Tableau*
   
-  * [The Data Analyst Course: Complete Data Analyst Bootcamp 2021](https://www.udemy.com/certificate/UC-bd903589-34da-4189-8181-f30de4e664e3/) : Formation sur Python pour l'analyse des données --NumPy, Pandas, collecte de données, prétraitement, types de données, visualisation des données. 
+  * [The Data Analyst Course: Complete Data Analyst Bootcamp 2021](https://www.udemy.com/certificate/UC-bd903589-34da-4189-8181-f30de4e664e3/) : Formation sur Python pour l'analyse des données --NumPy, Pandas, Matplotlib, Seaborn; collecte de données, prétraitement, types de données, visualisation des données. 
   
  * [SQL avancé pour data scientists](https://www.linkedin.com/learning/sql-avance-pour-les-data-scientists?trk=share_certificate) : exploration d'une base des données, réalisation des jointures, sous-requêtes, vues, et autres.
 
