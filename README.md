@@ -12,7 +12,9 @@ Focus sur le nettoyage de données, l'analyse des données et le partage des ré
  * [SQL - MySQL for Data Analytics and Business Intelligence](http://ude.my/UC-c2694776-266e-4ae3-ab9b-046d550a518e) : SQL pour Business Analysis, Marketing, et Data Management. 
  
     Certains des sujets étudiés dans ce cours sont : *SQL theory, Aggregate functions, JOINs, subqueries, SQL Views, Stored routines, MySQL triggers, MySQL indexes, Combining SQL and Tableau*
-   
+  
+  * [The Data Analyst Course: Complete Data Analyst Bootcamp 2021](https://www.udemy.com/certificate/UC-bd903589-34da-4189-8181-f30de4e664e3/) : Formation sur Python pour l'analyse des données --NumPy, Pandas, collecte de données, prétraitement, types de données, visualisation des données. 
+  
  * [SQL avancé pour data scientists](https://www.linkedin.com/learning/sql-avance-pour-les-data-scientists?trk=share_certificate) : exploration d'une base des données, réalisation des jointures, sous-requêtes, vues, et autres.
 
 * [L'essentiel de Power BI](https://www.linkedin.com/learning/l-essentiel-de-power-bi?trk=share_certificate) :  préparation des données, exploitation des données sous différentes formes visuelles en fonction d'un objectif. 
