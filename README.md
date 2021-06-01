@@ -2,6 +2,7 @@
 
 ## Projets personnels
 1. Project 1: [How can a Wellness Technology Company play it smart?](https://github.com/pcmaldonado/How-Can-a-Wellness-Technology-Company-Play-It-Smart) (SQL + Tableau/Excel) (en anglais)
+2. Project 2: [Wellbeing]()
 
 ## Certifications
 * [Google Data Analytics](https://coursera.org/share/93014798e8c45a50ea17511dff143504) : ensemble de 8 cours en anglais apprenant les compétences essentielles à l'analyse des données. 
