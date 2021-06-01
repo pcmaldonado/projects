@@ -15,6 +15,8 @@ Focus sur le nettoyage de données, l'analyse des données et le partage des ré
   
   * [The Data Analyst Course: Complete Data Analyst Bootcamp 2021](https://www.udemy.com/certificate/UC-bd903589-34da-4189-8181-f30de4e664e3/) : Formation sur Python pour l'analyse des données --NumPy, Pandas, Matplotlib, Seaborn; collecte de données, prétraitement, types de données, visualisation des données. 
   
+  * [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/certificate/UC-399f6599-6939-460d-80ea-3d9333436af3/) : Visualisation (Tableau), Modelling (Gretl), Data Preparation (SSIS, SQL), Communication
+  
  * [SQL avancé pour data scientists](https://www.linkedin.com/learning/sql-avance-pour-les-data-scientists?trk=share_certificate) : exploration d'une base des données, réalisation des jointures, sous-requêtes, vues, et autres.
 
 * [L'essentiel de Power BI](https://www.linkedin.com/learning/l-essentiel-de-power-bi?trk=share_certificate) :  préparation des données, exploitation des données sous différentes formes visuelles en fonction d'un objectif. 
