@@ -4,6 +4,7 @@
 1. Project 1: [How can a Wellness Technology Company play it smart?](https://github.com/pcmaldonado/How-Can-a-Wellness-Technology-Company-Play-It-Smart) (SQL + Tableau/Excel) 
 2. Project 2: [Wellbeing and Life Style - EDA and Clustering](https://github.com/pcmaldonado/WellbeingAnalysis) (Python: pandas, seaborn, sklearn) 
 3. Project 3: [Marketing Campaign Analysis - Classification](https://github.com/pcmaldonado/MarketingCampaignClassification) (Python: pandas, seaborn, sklearn, tensorflow, lime, shap)
+4. Project 4: [IMDb - EDA of a large dataset](https://github.com/pcmaldonado/IMDb) (SSIS, SQL, Python, Tableau)
 
 ## Certifications
 * [Google Data Analytics](https://coursera.org/share/93014798e8c45a50ea17511dff143504) : A set of 8 courses in English teaching the essential skills of data analysis. Focus on data cleaning, data analysis, and sharing results within a team. 
