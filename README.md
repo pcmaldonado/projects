@@ -12,6 +12,8 @@ _Most recent first_
 
   Use of tools such as Google Sheets, SQL, R and Tableau.
  
+* [365 DataScience Certificate](https://learn.365datascience.com/c/6a02a3ca6f) : A set of 37 courses, with more than 150 hours of content, including various aspects of Data Science (Statistics and probability, SQL, Python, Excel, Business Analytics, Tableau, ...)
+
  * [SQL - MySQL for Data Analytics and Business Intelligence](http://ude.my/UC-c2694776-266e-4ae3-ab9b-046d550a518e) : SQL for Business Analysis, Marketing, and Data Management. 
  
     Some of the topics covered in this course are: *SQL theory, Aggregate functions, JOINs, subqueries, SQL Views, Stored routines, MySQL triggers, MySQL indexes, Combining SQL and Tableau*
@@ -21,6 +23,3 @@ _Most recent first_
   * [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/certificate/UC-399f6599-6939-460d-80ea-3d9333436af3/) : Visualisation (Tableau), Modelling (Gretl), Data Preparation (SSIS, SQL), Communication
   
  * [SQL avancé pour data scientists](https://www.linkedin.com/learning/sql-avance-pour-les-data-scientists?trk=share_certificate) : exploration of a database, realization of joins, subqueries, views, and others.
-
-* [L'essentiel de Power BI](https://www.linkedin.com/learning/l-essentiel-de-power-bi?trk=share_certificate) :  preparation of data, exploitation of data in different visual forms according to an objective. 
-
