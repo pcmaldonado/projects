@@ -21,5 +21,3 @@ _Most recent first_
   * [The Data Analyst Course: Complete Data Analyst Bootcamp 2021](https://www.udemy.com/certificate/UC-bd903589-34da-4189-8181-f30de4e664e3/) : Python for data analysis: data collection, preprocessing, data types, data visualization. Use of packages such as NumPy, Pandas, Matplotlib and Seaborn
   
   * [Data Science A-Z™: Real-Life Data Science Exercises Included](https://www.udemy.com/certificate/UC-399f6599-6939-460d-80ea-3d9333436af3/) : Visualisation (Tableau), Modelling (Gretl), Data Preparation (SSIS, SQL), Communication
-  
- * [SQL avancé pour data scientists](https://www.linkedin.com/learning/sql-avance-pour-les-data-scientists?trk=share_certificate) : exploration of a database, realization of joins, subqueries, views, and others.
