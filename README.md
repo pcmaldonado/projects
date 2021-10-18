@@ -1,10 +1,11 @@
-# Portfolio Paula Maldonado
+# Portfolio - by Paula Maldonado
 
 ## Personal Projects
-* Project 1: [IMDb - EDA of a large dataset](https://github.com/pcmaldonado/IMDb) (SSIS, SQL, Python, Tableau)
-* Project 2: [Marketing Campaign Analysis - Classification](https://github.com/pcmaldonado/MarketingCampaignClassification) (Python: pandas, seaborn, sklearn, tensorflow, lime, shap)
-* Project 3: [Wellbeing and Life Style - EDA](https://github.com/pcmaldonado/WellbeingAnalysis) (Python: pandas, seaborn + Tableau) 
-* Project 4: [How can a Wellness Technology Company play it smart?](https://github.com/pcmaldonado/How-Can-a-Wellness-Technology-Company-Play-It-Smart) (SQL + Tableau/Excel) 
+* Project 1: [Used Cars - Regression](https://github.com/pcmaldonado/UsedCars) (Python: pandas, seaborn, scikit-learn)
+* Project 2: [IMDb - EDA of a large dataset](https://github.com/pcmaldonado/IMDb) (SSIS, SQL, Python, Tableau)
+* Project 3: [Marketing Campaign Analysis - Classification](https://github.com/pcmaldonado/MarketingCampaignClassification) (Python: pandas, seaborn, sklearn, tensorflow, lime, shap)
+* Project 4: [Wellbeing and Life Style - EDA](https://github.com/pcmaldonado/WellbeingAnalysis) (Python: pandas, seaborn + Tableau) 
+* Project 5: [How can a Wellness Technology Company play it smart?](https://github.com/pcmaldonado/How-Can-a-Wellness-Technology-Company-Play-It-Smart) (SQL + Tableau/Excel) 
 
 _Most recent first_
 ## Certifications
