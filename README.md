@@ -1,7 +1,7 @@
 # Portfolio - by Paula Maldonado
 
 ## Personal Projects
-* Project 1: [Used Cars - Regression](https://github.com/pcmaldonado/UsedCars) (Python: pandas, seaborn, scikit-learn)
+* Project 1: [Predicting Used Car Prices - Regression](https://github.com/pcmaldonado/UsedCars) (Python: pandas, seaborn, sklearn)
 * Project 2: [IMDb - EDA of a large dataset](https://github.com/pcmaldonado/IMDb) (SSIS, SQL, Python, Tableau)
 * Project 3: [Marketing Campaign Analysis - Classification](https://github.com/pcmaldonado/MarketingCampaignClassification) (Python: pandas, seaborn, sklearn, tensorflow, lime, shap)
 * Project 4: [Wellbeing and Life Style - EDA](https://github.com/pcmaldonado/WellbeingAnalysis) (Python: pandas, seaborn + Tableau) 
