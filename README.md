@@ -16,6 +16,17 @@ This is a complete list of my published projects. You can also go check my [port
 
 <br>
 
+* [Using Deep Learning to Identify Dog Breeds](https://github.com/pcmaldonado/Dog_Breed_Classification) - Python: TensorFlow, Keras, Matplotlib
+  - Built a CNN using transfer learning to be able to estimate the breed of a dog and, if given an image of a human, detect what type of dog the human looks like.
+
+
+<br>
+
+* [IMDb - EDA of a large dataset](https://github.com/pcmaldonado/IMDb_data_analysis) - SSIS, MSSQL, Python, Tableau
+  - Imported IMDb data onto a local database using SSIS and MSSQL, explored the data through queries, python code and by using Tableau visualizations
+
+<br>
+
 * [Sales Forecasting](https://github.com/pcmaldonado/SalesForecasting) - Python (Sklearn, LIME, Pickle), Tableau
   - Conducted time series analysis on sales and conducted sales forecasting
 
@@ -24,22 +35,28 @@ This is a complete list of my published projects. You can also go check my [port
 * [Predicting Customer Churn](https://github.com/pcmaldonado/CustomerChurn) - Python: Pandas, Sklearn, Matplotlib, Pickle, LIME, SMOTE
   - Used a ML model to detect customers likely to churn and understand why they are likely to churn
  
-<br>
 
-* [IMDb - EDA of a large dataset](https://github.com/pcmaldonado/IMDb_data_analysis) - SSIS, MSSQL, Python, Tableau
-  - Imported IMDb data onto a local database using SSIS and MSSQL, explored the data through queries, python code and by using Tableau visualizations
-
- 
 <br>
 
 * [Disaster Response (Multiouput Classification)](https://github.com/pcmaldonado/Disaster_Response) - Python (NLTK, Flask, Sklearn), Plotly, HTML, CSS
-  - As part of the Udacity Data Scientist Nanodegree Program, this multioutput classification project aims to analyze and classify messages to improve communication during disasters. Additionally, a web application can be run locally after setting up the required environment.
-
-
+  - This multioutput classification project aims to analyze and classify messages to improve communication during disasters. Additionally, a web application can be run locally after setting up the required environment.
+ 
 ------------------
 # Articles
-* [Linear Regression: Normal Equation & Gradient Descent — from Scratch](https://medium.com/@pcmaldonado/linear-regression-normal-equation-gradient-descent-from-scratch-dc8c0f51940)
-  - Studies linear regression, how to find optimal weights using the normal equation and its drawbacks, as well as using gradient descent (Batch, Stochastic and Mini-Batch), from scratch using mostly NumPy
+* [Guide to creating interactive visualizations in Python](https://levelup.gitconnected.com/guide-to-creating-interactive-visualizations-in-python-78f79ffc7d61)
+  - In this guide, we explore HoloViz tools, and most precisely, we take a look at Panel and hvPlot which are open-source libraries that can be used to create interactive charts and dashboards. We also see how easy is to deploy and share our dashboard using a Jupyter Notebook.
+  - Dashboard with interactive charts deployed on [Heroku](https://pokeviz.herokuapp.com/)
+
+
+* [Analyzing the results of an A/B test](https://medium.com/@pcmaldonado/starbucks-take-home-assignment-a8b647fb21e0)
+  - Analysis of the results of an A/B test where the final objective is to build a ML model in order to optimize a promotion strategy to better target customers.
+
 
 * [Explaining Black-Box models in Python](https://medium.com/@pcmaldonado/simple-guide-to-interpreting-black-box-models-in-python-5c8bb3b5fcae)
   - A quick look at different global and local methods for explaining complex machine learning models using Python libraries
+
+
+* [Linear Regression: Normal Equation & Gradient Descent — from Scratch](https://medium.com/@pcmaldonado/linear-regression-normal-equation-gradient-descent-from-scratch-dc8c0f51940)
+  - Studies linear regression, how to find optimal weights using the normal equation and its drawbacks, as well as using gradient descent (Batch, Stochastic and Mini-Batch), from scratch using mostly NumPy
+
+
